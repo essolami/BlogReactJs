@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/BlogReactJs/static/css/main.a554d649.chunk.css",
+    "main.js": "/BlogReactJs/static/js/main.f3bd3708.chunk.js",
+    "main.js.map": "/BlogReactJs/static/js/main.f3bd3708.chunk.js.map",
+    "runtime-main.js": "/BlogReactJs/static/js/runtime-main.eb0eaff7.js",
+    "runtime-main.js.map": "/BlogReactJs/static/js/runtime-main.eb0eaff7.js.map",
+    "static/js/2.b9cdb5f2.chunk.js": "/BlogReactJs/static/js/2.b9cdb5f2.chunk.js",
+    "static/js/2.b9cdb5f2.chunk.js.map": "/BlogReactJs/static/js/2.b9cdb5f2.chunk.js.map",
+    "index.html": "/BlogReactJs/index.html",
+    "precache-manifest.8bf8f69eb627c0f4ea4e8acd9f9696aa.js": "/BlogReactJs/precache-manifest.8bf8f69eb627c0f4ea4e8acd9f9696aa.js",
+    "service-worker.js": "/BlogReactJs/service-worker.js",
+    "static/css/main.a554d649.chunk.css.map": "/BlogReactJs/static/css/main.a554d649.chunk.css.map",
+    "static/js/2.b9cdb5f2.chunk.js.LICENSE.txt": "/BlogReactJs/static/js/2.b9cdb5f2.chunk.js.LICENSE.txt",
+    "static/media/1.jpg": "/BlogReactJs/static/media/1.2bffb99d.jpg",
+    "static/media/12.jpg": "/BlogReactJs/static/media/12.d28c1377.jpg",
+    "static/media/13.jpg": "/BlogReactJs/static/media/13.287246a5.jpg",
+    "static/media/2.jpg": "/BlogReactJs/static/media/2.5ba0d83e.jpg",
+    "static/media/3.jpg": "/BlogReactJs/static/media/3.04dcd8cd.jpg",
+    "static/media/4.jpg": "/BlogReactJs/static/media/4.740d3cce.jpg",
+    "static/media/5.jpg": "/BlogReactJs/static/media/5.e69a6f14.jpg",
+    "static/media/6.jpg": "/BlogReactJs/static/media/6.0c77b02a.jpg",
+    "static/media/7.jpg": "/BlogReactJs/static/media/7.24f89814.jpg",
+    "static/media/8.jpg": "/BlogReactJs/static/media/8.c9e2c771.jpg",
+    "static/media/9.jpg": "/BlogReactJs/static/media/9.342fe99b.jpg",
+    "static/media/aboutus.jpg": "/BlogReactJs/static/media/aboutus.cb48b4d0.jpg",
+    "static/media/add2.png": "/BlogReactJs/static/media/add2.34a7bd00.png",
+    "static/media/ff.jpg": "/BlogReactJs/static/media/ff.5ff227e8.jpg",
+    "static/media/outpout.png": "/BlogReactJs/static/media/outpout.58d0fda3.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.eb0eaff7.js",
+    "static/js/2.b9cdb5f2.chunk.js",
+    "static/css/main.a554d649.chunk.css",
+    "static/js/main.f3bd3708.chunk.js"
+  ]
+}
