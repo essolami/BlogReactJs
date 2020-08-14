@@ -1,0 +1,80 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Pacifico&display=swap');
+.navbar{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-top: 5px;
+    width: 100%;
+  
+}
+.ul{
+    display: flex;
+    /* padding-left: 10%; */
+    font-size: 15px;
+    margin-top: 15px;
+}
+.il{
+    
+    list-style: none;
+    /* margin: 0 10px; */
+    padding: 0;
+    /* margin: 0; */
+    margin-left: 15px;
+}
+.a{
+    color: #000;
+}
+.a:hover{
+   text-decoration: none;
+   color: rgb(45, 12, 231);
+}
+.logo{
+    padding-right: 10%;
+    font-size: x-large;
+    font-family: 'Dancing Script', cursive;
+}
+.logo2{
+    
+        width: 100%;
+        height: max-content;
+        background-color: #fff;
+        font-size: 3em;
+        /* display: block; */
+        align-items: center;
+        justify-content: center;
+        /* margin-bottom: 10px; */
+        display: grid;
+        padding: 60px;
+        font-family: 'Oswald', sans-serif;
+        color: #73b3df;
+   
+}
+.logo2 img{
+    width: 100%;
+    justify-self: center;
+}
+
+.Social ul{
+    padding: 0;
+    margin: 0;
+    line-height: 1.2;
+}
+.Social ul li{
+    display: inline-block;
+    list-style-type: none;
+    padding: .25em 0;
+    margin: 0;
+    text-indent: 0;
+}
+.Social ul li a{
+    transition: all .1s ease;
+    display: block;
+    color: #565673;
+    margin-right: 5px;
+    font-size: 16px;
+}
+.Social ul li a:hover{
+    color: rgb(45, 12, 231);
+}
+

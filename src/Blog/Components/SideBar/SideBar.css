@@ -1,0 +1,143 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300&display=swap');
+
+.RecentsPostsContainer{
+    background-color: #fff;
+    /* padding-bottom: 10px; */
+}
+.RecentsPostsContainer p {
+    padding-left: 5%;
+    margin-top: 5px;
+    padding-right: 2%;
+    background-color: #fff;
+    border-bottom: dotted 1px #D9D9D9;
+    padding-bottom: 20px;
+    
+}
+.RecentsPostsContainer h4{
+    text-align: center;
+    background-color: #fff;
+    padding: 5%;
+    padding-top: 15px;
+    color: #4A4848;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: bolder;
+    font-size: 25px;
+}
+.RecentsPostsContainer a {
+    color: #426633;
+    text-decoration: none;
+    font-size: large;
+}
+.RecentsPostsContainer a:hover {
+    color: #1074df;
+    text-decoration: none;
+}
+.date{
+    color: rgb(143 143 143);
+    font-size: 12px;
+    font-family: inherit;
+}
+/* .date :before {
+    content: "\f017";
+    font-family: "Font Awesome 5 Free";
+    padding-right: 4px;
+} */
+
+.date:before {
+    font-family: "Font Awesome 5 Free";
+    content: "\f017";
+    display: inline-block;
+    padding-right: 3px;
+    vertical-align: middle;
+    margin-right: 2px;
+    
+ }
+
+.AboutUs{
+    background-color: #fff;
+    margin-bottom: 20px;
+}
+.AboutUs img{
+    width: 100%;
+    height: 250px;
+    padding: 5%;
+}
+.AboutUs h4{
+    text-align: center;
+    background-color: #fff;
+    padding: 5%;
+    text-align: center;
+    padding-top: 15px;
+    color: #4A4848;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: bolder;
+    font-size: 25px;
+}
+.AboutUs p{
+    padding: 5%;
+    font-size: 15px;
+    font-weight: 400;
+    line-height: 1.5;
+    color: #4A4848;
+}
+.widget{
+    
+    background: #FFF;
+    overflow: hidden;
+    padding: 10px;
+    align-items: center;
+    margin-bottom:20px;
+    
+}
+
+.widget h4{
+    text-align: center;
+    background-color: #fff;
+    padding: 5%;
+    text-align: center;
+    padding-top: 15px;
+    color: #4A4848;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: bolder;
+    font-size: 25px;
+}
+.widget li{
+    list-style-type: none;
+    display: inline-block;
+}
+.widget ul{
+    padding: 0;
+    margin: 0;
+}
+.widget a{
+    height: 35px;
+    width: 35px;
+    text-align: center;
+    line-height: 35px;
+    color: #fff;
+    border: 1px solid transparent;
+    background: #53a2d5;
+    margin: 0 2px 4px;
+    font-size: 14px;
+    -webkit-border-radius: 50%;
+    -moz-border-radius: 50%;
+    border-radius: 50%;
+    display: block;
+}
+.widget .social{
+    text-align: center;
+}
+
+
+.single-sidebar-widget img{
+    margin-bottom: 20px;
+    width: 100%;
+}
+.RecentPostLink span{
+    color: #19195f;
+    font-size: 12px;
+    font-family: inherit;
+}
+.fa-star {
+    color: #00d468;
+}

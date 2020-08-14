@@ -1,0 +1,19 @@
+*{
+    font-family: 'Poppins', sans-serif;
+    
+    
+    
+}
+body{
+    background-color:#e9eaed;
+        margin: auto;
+        width: 75%;
+        
+        -moz-osx-font-smoothing: grayscale;
+        
+    
+    
+        line-height: 1.5;
+        
+    }
+    

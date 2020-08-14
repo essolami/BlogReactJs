@@ -1,0 +1,13 @@
+.containerPost{
+    width: 100%;
+    display: flex;
+    
+    background-color: rgb(199 194 194 / 68%);
+}
+@media (min-width: 992px){
+
+.containerPost {
+    max-width: 100%;
+    background-color: rgb(199 194 194 / 68%);
+}
+}
